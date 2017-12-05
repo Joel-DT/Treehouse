@@ -1,3 +1,4 @@
 Hello Git
-Helllo, again.
+Hello, again.
 Updating Readme with new information.
+Fixed typo
